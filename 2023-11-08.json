@@ -1,0 +1,26 @@
+{
+  "name": "Fanny Ramirez",
+  "age": 55,
+  "address": {
+    "street": "Nuaw Drive",
+    "city": "Paboele",
+    "state": "WV",
+    "zip": "04831"
+  },
+  "contact": {
+    "phone": "(469) 709-6986",
+    "servicePhone": "800662582"
+  },
+  "birthday": "2002-11-06T09:09:50.572Z",
+  "ip": "123.151.72.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Rahob ubi rig kotdoal fazohapic bifiv li vecanik zo lejinaj gib nec. Kiukefug jo judgun uvemahu me matesoli ubunad roson vuboc doem bufah kekemot felciar. Igno dawusi wekenam tam upa imi ogu omu paloguk akraraz ifomusu uvciime pu.",
+    "bio": "Kiurdu felujeba garhemhi ejilernuh asufaap agki tow od ri devu dapi tewgijri caufado mofpu riuvtiz toofiije ca jimma. Ot zedwu wedpob sabocaza satlamci hemi ajigapoke wupes wu zajarzer biofu veerwa dahup ag. Medisip fefdun zeefineb re fasopaf hi fubfuh he gidu wub muwmob naz. Judnisada ka umime vuifa hu bejoco facduvelu bu ke uci peukmof ih pobu kos jenvubenu hu cat. Funba nap ge am roh seobo saturju te gibducjis tijaz dosdizem lipuab."
+  },
+  "apiKey": "213536f00b0d90f8457e5e986f07f1bd6e058d1b6d2fc360b0eff1cb6d630e04",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
