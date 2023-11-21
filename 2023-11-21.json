@@ -1,0 +1,26 @@
+{
+  "name": "Stephen Richardson",
+  "age": 45,
+  "address": {
+    "street": "Beof Avenue",
+    "city": "Ijeutle",
+    "state": "TN",
+    "zip": "37053"
+  },
+  "contact": {
+    "phone": "(917) 591-9813",
+    "servicePhone": "800459195"
+  },
+  "birthday": "1973-09-14T18:49:41.085Z",
+  "ip": "241.242.229.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Afitaco tihud ac zojpe nisso owones tegena vosid zor gero zavuza jipigizi woik. Lelere valrohos cevor sekset merhu amehepuh musivugo lavob po kakpa utna ihtumi ledeme rocij oh ba as. Ves huvwaki uko povip ce dibda utmeb anru pibi dohdauta opome tez vekal puk.",
+    "bio": "Kasor tabuh kitwoife meke cejivize sog otu zig eh omuuweju oscer obwidruh be gigji dihdavfu hetpene sev. Iborika bute zuaf sahecaw pafi moz ilwo wasekbol palicful rebave fiscoku giwimku gafanbe upa biko ce cu ug. Hoeko daridlaz vod ni carrowlu pujdujuw vozaavi jachit ejozusbe zep awlovtep ov. Cikci liobu mafu vuive be givojub calzos baro kiibor jescore bel aso su if puz weriz. Odge kovhafmoc zipje sam mat ho kivaopa jev anusurud zi du igudimes muwatzo dampu gejoc. Asucilo cosbak ebsuwag cuti pujuva ti docju nej azunege ruzju ji cechabbup lainho hizfomaj. Fopgovri wilikuw riehhoj va delemu ripto webdaupa hijani jujefuz bedfuvur kakasbil guvgaba tigziv sopekwe ot nerjup."
+  },
+  "apiKey": "2360defd5fe883144faf839a32ff9d94879f14db3949eb616728fc64533f0a84",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
