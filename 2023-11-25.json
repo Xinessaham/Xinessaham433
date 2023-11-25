@@ -1,0 +1,26 @@
+{
+  "name": "Iva Warner",
+  "age": 40,
+  "address": {
+    "street": "Bibda Terrace",
+    "city": "Uslobek",
+    "state": "VA",
+    "zip": "86431"
+  },
+  "contact": {
+    "phone": "(525) 549-7201",
+    "servicePhone": "800357938"
+  },
+  "birthday": "1965-06-18T02:21:12.269Z",
+  "ip": "27.136.57.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Co nij azit botgeka mezsagcep icetima ap dobade menfi pebudce ubdof ze la zuk erimo div. Eti fab mun ro owe ta ju hu suvka ben gehgabej neul lem. Wagom kente ra ja watne izabap damokuw jotobutep apnem mumafha rosurnu deabzec.",
+    "bio": "Zijlak dipoj urguj be vo zorirufa gazuov zorva wevruz caugpu ve milpurika uda ke me memcu husin ithagbi. Wefafik favevru uc nehidigo ketloifa obi jesrerwu agu tulakup woalfah junodi niv kohwi fef. Keefu guwaut gowrohni cevarmu dige okukadit someppi zapatpiw wukici az ki hothoc. Davrinaf mugja ope wi wumki ot jem cat atnab fepape hujo men wusvup."
+  },
+  "apiKey": "bd4bbc45131b32eed18d077bc1b58bb915ab7cc7fd7391de5ef5037ff0327052",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
