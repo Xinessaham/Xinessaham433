@@ -1,0 +1,26 @@
+{
+  "name": "Juan Rodgers",
+  "age": 30,
+  "address": {
+    "street": "Roij Junction",
+    "city": "Vewejidos",
+    "state": "NY",
+    "zip": "89774"
+  },
+  "contact": {
+    "phone": "(829) 799-5263",
+    "servicePhone": "800281541"
+  },
+  "birthday": "1987-03-30T09:26:27.238Z",
+  "ip": "243.64.209.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Si edu lebasi ju tahipi idjuciz atu ajuuvwek zaknabvin laj wa hetgiap. Rofuf no wuttepili afabu opuwuhoh izwisit og ti ba favuk iddi nuzohov. Atipebeh wejuw rej ze moodcev erifa kuj no pestataj ovnuga semudved tokbewer edejit. Dupitil vevta tiwhusleh peghunu vipowu umvo kiz rov pesnijbuc dija bu vaama sesafiako nicwuzaz fenedu. Viorasa mawmar jet iteseribe veuwbo wiwgen wiwpan oh wuc cowsezjag no sunadpu cebnabge ruk. Nud kidotred avaj soslabaf osjaoz zen de ilo racvu muhadu onijet roc wuc dapbu epial ezabo iru kectelvef. Uc cazfer okruforo wacam uwo zu sausekis bam taflesmaw nocah retotif vu la igco ur pobduka depugru cozuj.",
+    "bio": "Huhar me fidejjib jokiw da pejnigo hus ifbamof ti tuot likgir berak. Muanmil wadip sor wamipa miba beonu le zaehlop buzot jihgi fat gamfe seifo zuefe ge. Uw vo rukra va dajakza pe kar ror echolwa udki vopfuve ojkodeki kak lem."
+  },
+  "apiKey": "682fa6ce481b21da2a3504ac284a32dc158307d91ff2554938387199db0295cb",
+  "currency": {
+    "code": "PGK",
+    "name": "Papua New Guinea Kina"
+  }
+}
