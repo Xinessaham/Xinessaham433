@@ -1,0 +1,26 @@
+{
+  "name": "Sarah Vaughn",
+  "age": 30,
+  "address": {
+    "street": "Goek Grove",
+    "city": "Doivija",
+    "state": "DC",
+    "zip": "11676"
+  },
+  "contact": {
+    "phone": "(464) 887-2033",
+    "servicePhone": "800795721"
+  },
+  "birthday": "2005-11-20T06:02:10.629Z",
+  "ip": "17.34.204.208",
+  "foo": "bar",
+  "profile": {
+    "about": "Eju rimuswih ibheg ejfoter pihovog ul bef ebmikev tesaziv cen dukvidluf mezelape ujoralaz odu pokpatuv tigadu jozog genhucif. Aghufom cuvcar edu nudbiimi wonawlos atezege ne tut geknu wabugna gi uje teras kojigin. Ec pukbe fa sipko zeniju motes poz dacez fomun ja kodhane nic burme omtafe renkaaj. Gudde rakbuso bodimus supesezo deub ufvotih di azegif ag dukhana giureze tak ecduj unouzne. Vibo sutgemevo ezlihmu siffeet wegduvwi hoh vupifonig dek on olu lowa gedapel vupuphoh onu het karze jegid.",
+    "bio": "Coabepe vuuzokoc mibno holocipon gafef hura wib pora wodpelsit pokegli uwloh vegug lap zoj fudapu dutiogo. Egueneuca suntak liwib woroj od luvti sok ciziwguh rol wobeg kifveode tucanu kozohdok difkulki ga tewa abina. Noz fukenko cuslaploc on wareje lamro hudjuhga varok koocse wow okuhuz fisi og kumho tavcicwib. Godhehoru huklu nisiez bolnovfuz dug ciweztah izadadvu avo fevuvra na agjezhek hicu. Nakov neg jikpapger izifu ukgetgi va ivabocriw bir erowot wohvor jewheg fepoba morwak zeda rufatgav ro gopu. Ilodafmu owedeg esesacari gemofic ja wo gi sem ahu duh zatuh naoca poldi itdekdif uga dijisdi. Zo buta niwivit se ehjuz posembeg er wa mow lewi izupurmow metowob taheriz nasva ri re."
+  },
+  "apiKey": "7125c97705eadd92844e56bb0a532f997e8923afcf86211149ef5b166eb017d5",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
