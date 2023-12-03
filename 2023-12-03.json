@@ -1,0 +1,26 @@
+{
+  "name": "Iva Love",
+  "age": 36,
+  "address": {
+    "street": "Javjed Loop",
+    "city": "Doludibe",
+    "state": "VA",
+    "zip": "10030"
+  },
+  "contact": {
+    "phone": "(658) 595-2381",
+    "servicePhone": "800677143"
+  },
+  "birthday": "1977-06-22T12:45:33.494Z",
+  "ip": "220.244.117.120",
+  "foo": "bar",
+  "profile": {
+    "about": "Hokawog pac cuv oduknuf colnas coubul baz hibdukta giduelo sinetu ce fuv ut ah letarehu nal. Toki hacad bejta iluhov wa bep wezap ta fuaco wudoh miwtasvo hicbook tunikog nipdu doheha zew ugzubuj volsuhja. Wu gusuc zo vo ude digjeho loblahpo rojraju he umopi ehsaep atu uk.",
+    "bio": "Al wefel nulpinun bowerlon dahwubta siv didig se zutbedru an lirfarun vahote. Ec ceemkum sudco epvewsoz gadbag fulewok maec cuzot hiiwi lijwu gal tedoffi. Cihet za pappo cehujfad fiw silam tiep fe us dif icnah fofvodfa tetbelta medukoz lih roge."
+  },
+  "apiKey": "efe40fd1d7f4f1cc16db6c30bed5a2075db692255f56c42ed0b3a0fe24af8a32",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
