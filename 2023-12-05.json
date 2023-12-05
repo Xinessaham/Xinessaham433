@@ -1,0 +1,26 @@
+{
+  "name": "Nellie Dawson",
+  "age": 53,
+  "address": {
+    "street": "Fiwu Street",
+    "city": "Naziwooz",
+    "state": "MN",
+    "zip": "02094"
+  },
+  "contact": {
+    "phone": "(767) 205-5971",
+    "servicePhone": "800913943"
+  },
+  "birthday": "1994-08-02T14:11:35.859Z",
+  "ip": "157.21.228.186",
+  "foo": "bar",
+  "profile": {
+    "about": "Nukop faca hormoti cala jenero se rakuze ovsinze he dohaw kok ham ladsedhez tu redateb. Pan be figzinse ra ububu zuk so etora fuzagob du avtejuh fuk. Tu maditaf madadudi ikofotec vuzo bec evadih puhunil fa foz ce eneluf.",
+    "bio": "Ol sokocne jude sop hosler ziciswif hawujkus lavu ohvin liksap muvfewrow voij muiftid ma ewe. Ceneccur adeciiw ahu akzi tudo sapsob pir fahehoac ni wethosaf sul uhkec erahepa ulmofzac. Uluwiw utajuh jojka cuvut huvu nianze ikepo ogci isaker orafeh bec mozejlu ej mejva. Kim kis von gukucfop ug voj ki rerdur motka me ida wuastut raki poledgi zataghu."
+  },
+  "apiKey": "35080244494a31d3e0fa1483a083c5ed389a6ec644d2402a0171eebcde3c7466",
+  "currency": {
+    "code": "SHP",
+    "name": "Saint Helena Pound"
+  }
+}
