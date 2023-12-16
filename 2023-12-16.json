@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Logan",
+  "age": 29,
+  "address": {
+    "street": "Vili Place",
+    "city": "Kobbuzkek",
+    "state": "VA",
+    "zip": "54668"
+  },
+  "contact": {
+    "phone": "(571) 239-9071",
+    "servicePhone": "800138193"
+  },
+  "birthday": "2000-10-02T00:32:45.435Z",
+  "ip": "100.151.3.3",
+  "foo": "bar",
+  "profile": {
+    "about": "Cacola bicac hifli pilkav ejafo vokdoipi gaivaag jafemabek ni vafvansa ibagca bicmotma en jas effu umeub zokekad nacaup. Buhme ve vemodos rozsu mi zitabta co zimodihe da zano wiohog avosu bul. Fiwjoko ozocuvo marun gecevi geliic pen ci tika ajo rufjo kolcizsec omurake pidga wob li. Hi haotevov jewoz ruz imeruku ruk inbewcet hi ejueralop dasmij dasdip eriba vabo luajeel wimoju ola ejmippom.",
+    "bio": "Abmupbe vuk puna nehokomi bum ojo ifidujpig jojaslo lorikid mebion rogde dem ger canvewu. Danik hovwefav mug adri rarihif asna dobi ekiuketi cukla hut ginlosow pimukuz ki. Budgaza livfi tikwuszi an bapu rigiw ta tohofe fusafika adehak urelidset duevipo ta gup kophe."
+  },
+  "apiKey": "7a51764823c4e52815fb96b25d953786ba348533dc502c6a689abc2a621b1e9d",
+  "currency": {
+    "code": "BHD",
+    "name": "Bahrain Dinar"
+  }
+}
