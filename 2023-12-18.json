@@ -1,0 +1,26 @@
+{
+  "name": "Jerry Reynolds",
+  "age": 46,
+  "address": {
+    "street": "Wugit Way",
+    "city": "Biabamu",
+    "state": "NY",
+    "zip": "91822"
+  },
+  "contact": {
+    "phone": "(540) 218-9156",
+    "servicePhone": "800545538"
+  },
+  "birthday": "1977-12-10T22:21:21.719Z",
+  "ip": "176.68.173.153",
+  "foo": "bar",
+  "profile": {
+    "about": "Tet wuznotme rec gel wicbuddo sanufruz dalsuik on ana uv moglecu uvwu hasates go nomsa bu. Ewebigez ko zibji metasges mek fuvimubos ka me taf upgic hukewu guw ajwikeg sugojsip wi tedpu cioge. Co gowul fobu ecu lahak oggav anas pezra to tusorsib nukubir ublaknuf mikebdo. Mawo rowru pidtitat wosdomro pajel babif samofosi padevuso ol ciowlem deduwa egsafibo tipji ov manhaz. Iludizo iko no bokolsed kone me wububami dowimo lujbaila himlomgi elfiwila ripucec tumfucebu vup tuj.",
+    "bio": "Seog hu tidrid hoab ca nadi gerbagvib igejin fesuje huki dujvidig ta vigbib dojizic tatsepa hisgus za dopdu. Mikkil rilewdu fom fataza rik wawuze le masmah ik iwu hupo sebu avisa. Gionuibi rusiw iho kad wuzkuc itfed ite eno vu ba huzaz hejom se ufu wikvezuno. Popil dednip siamhit jo cihpummom zepfatse mupjag lecos nobihdor zejzu bohlir iz."
+  },
+  "apiKey": "05ef4ebbd7195a6c477e10c37cf87486d28ad1a82eaa9e2824256e02594f9b0b",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
