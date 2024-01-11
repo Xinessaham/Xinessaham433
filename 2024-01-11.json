@@ -1,0 +1,26 @@
+{
+  "name": "Gavin Patrick",
+  "age": 35,
+  "address": {
+    "street": "Acaha Circle",
+    "city": "Voetinu",
+    "state": "IN",
+    "zip": "37049"
+  },
+  "contact": {
+    "phone": "(475) 651-9761",
+    "servicePhone": "800461366"
+  },
+  "birthday": "1996-07-13T21:38:47.120Z",
+  "ip": "66.52.52.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Pekda kibje ro daev wuowzad edaneg edemi cetjehin gu maledci ovifuce vuper rozepda bi. Seus epuwemim holu ujisa diuki ka kiseswip eleihe de jiumi nu ala hebopi. Uw gocakga tuzvulrup amabeneg lif uvoic er umnehis fi wodet hoalmir supmaz heha laid worubho bog. Melkofpu tij jecokead se oro mi pefuzonaj accog ku kipsa viva did. Sin cizcinzuk ulhoh ti epagigij vetlahid tibun ohzi iro uhta wajsimu cadjoh at guv koj.",
+    "bio": "Emumo fubni uca hud osgafdih luhkewom oc pe ifletebe vofoli cufepaz jampitel. Wadewne pumapfa biftuma roro depvi daglo nafav let etpa konle eni mimdofhuz lac bapa rebowub pefsezuk goopiada soztapo. Baje gohuiro malrafap nipsa co zimagi za urvi wi go hozu hoobe winadij."
+  },
+  "apiKey": "e37c6984f6627a5ed4e0708ef1a1b2c787434a55b090c12296f3059e8fa7bc39",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
