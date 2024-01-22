@@ -1,0 +1,26 @@
+{
+  "name": "Isaiah Bowers",
+  "age": 35,
+  "address": {
+    "street": "Nubme Way",
+    "city": "Nafuzek",
+    "state": "RI",
+    "zip": "91106"
+  },
+  "contact": {
+    "phone": "(583) 418-5197",
+    "servicePhone": "800782452"
+  },
+  "birthday": "1960-10-09T00:37:07.703Z",
+  "ip": "180.87.13.92",
+  "foo": "bar",
+  "profile": {
+    "about": "Hub uhi nacfob alo mero fedened buna lizvapzez toho un vucmu hud. Cehjeri oho ri veru kojuc nintitsov er ofsid hod ju zudeh gogron nad. Uf gigis epe sejivced opuumzir uwpul il fag kehbe hosij fopoge ejirittup osufope vahar zuh. Ori zu fantaz ekacale abelek ohen otni am kugvuhbu nizfet dir cilgu si.",
+    "bio": "Wu usfulan paas rilka af punwudij gur lujarikis mu sub urkuaza bipamud bogwormeb. Pondi nor jibhu ju ritah suebipi wuzkotge mesre orofiwezo bej cefluv ivu ka puhdu. Jiegu uti getbudso zefuviug acfikle lertit wu ved mickipe gacmi jagaow lijol zerpoopo vabhedoh jez dap."
+  },
+  "apiKey": "ada79c84e2244eb5c058c226fc2b86926395f60ec5b2a718a4cae4c3ea68560e",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
