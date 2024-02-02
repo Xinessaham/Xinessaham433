@@ -1,0 +1,26 @@
+{
+  "name": "Bill Poole",
+  "age": 33,
+  "address": {
+    "street": "Burfo Ridge",
+    "city": "Adcava",
+    "state": "MA",
+    "zip": "81240"
+  },
+  "contact": {
+    "phone": "(720) 957-7338",
+    "servicePhone": "800825647"
+  },
+  "birthday": "1973-06-12T07:03:28.305Z",
+  "ip": "114.190.203.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Da en zi tuwogakoc bauzzaj sa pahgoek kokazki ub ugeup meweg me. Cusih ic azejo zocki nibu uleuno risku log jom guj lamapi giri fiegi. Zirah rapjes vizsofe wasaf kulfovduw re joh mijaroz kulocunu muzez duhteji buvulu rubsekwo la uj ibasewuv ven. Safcelop uzewira vu ami afmuhiz zeat noiva ser tadufgu behnefvod vi jit halutup um wokelig evsacih. Akedi bokezpij tebnas jukeguh ripzeni huntogejo dufpob ho lul suzavbof udieja buwu pebo kemjuv. Ze figihuru mofomoap zuk dovsekaze vac huv zaem ho turgahlig cebmuj gofhadzu kid.",
+    "bio": "Nomruc sac fug savzof hapovi jachewkab hud renfu wag opo jokomu pulivomel aziji sekeisu munoz. Efurimur jec jawtedpo eg opduwef leirohu iwig somviv hi cutekuma law univija sufgud lanfesek. Duv watdeti fujpife ci ver suco vehmohre bi su cefi hidkaji zopofake gad po. Fu ro ci aftor davu babte bed iteboosi tohed tehsapadi kozidos magekbo fovac co. Tihzongud ko kahudezu becta izcewin welebadaw foka kacjeb fehnuok zo nen icsamhub hezfiwno doag cavnissa du. Zewewasu ite wov ejikihkow vunlibfum biceka jidpi ikorefar ikko ju nim woat uhe. Vowuuko ci awu fa uhawor alif boug danause saprez egu efi pudtuk doem anada poigigi."
+  },
+  "apiKey": "26dc506c90c3e6943c648b034bb9868ddf75b58fdab129f7094d14027ce236e3",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
