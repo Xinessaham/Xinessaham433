@@ -1,0 +1,26 @@
+{
+  "name": "Frederick Vega",
+  "age": 28,
+  "address": {
+    "street": "Zisher Avenue",
+    "city": "Sipgura",
+    "state": "IL",
+    "zip": "62338"
+  },
+  "contact": {
+    "phone": "(335) 785-3144",
+    "servicePhone": "800823714"
+  },
+  "birthday": "1970-05-19T05:47:06.889Z",
+  "ip": "182.187.252.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Ibuele ak uvaugha sogfe ogu ha tajkeon sobozmi isvip verlaw arhahroc siruw. Idijat hugowaju wunkatkuh kub zukace cubusa acbipku roh ijdep tewagiha muku narucca uvluv can bu uw. Jupofida rufem rusilor mo paergat rapovu siz ti caco su tifep vo kokuc ommon.",
+    "bio": "Lu kiini ocpimov regabwi casadi giwhiw ridni woet lip hi ec daf. Ih adfitfap riv keonkuj rin etwepit pak wacgafa hiip be zecid nutwewmod rafot mazufve fifragon muhu adeguz. Het buzihi bi ahigevog zum lak teto pivawteh kucwik lev ta teloni ta esel. Poldeppo ip fadaozo pejge zurata novgiptu fehe urjaz venuhlo bigaapo du ga pulcoon."
+  },
+  "apiKey": "9d32e862db0727084c6f1b492a20fd43bbcca9fa7cd5db704c28c81c928330c7",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
