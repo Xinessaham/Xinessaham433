@@ -1,0 +1,26 @@
+{
+  "name": "Dale Parks",
+  "age": 26,
+  "address": {
+    "street": "Jifi Pike",
+    "city": "Tiewurak",
+    "state": "CA",
+    "zip": "36839"
+  },
+  "contact": {
+    "phone": "(701) 921-4732",
+    "servicePhone": "800289945"
+  },
+  "birthday": "2000-04-08T16:57:30.150Z",
+  "ip": "55.105.24.99",
+  "foo": "bar",
+  "profile": {
+    "about": "Go eb aghit pedecaz vetgo suhuseji jifel haf efuzu lumanubu ako unozun gouneide zen id poj cec. Nizekese keuko pe usowaf mizvatco afvaz baek ladtok zan koku wucud ejobi. Jujkupvud zitu beco owagu ufujujvur refwegalu ozo runkaw fobipki kag agko av ace jo owuno hodmi fu. Tiwuh te adumoupu zuatjag havwuw upmozin obuole veki jek gab gik bovuhe dep ran riris birfowe.",
+    "bio": "Izoha durjo lurcogke wofefo mahke jelepok vesuc ar bed co lacpodvo idteaw vu. Sel wecjaji ij nuerga vanol bad wadnipjuw ajo ev adaka ikpuhu ofjenhu vipca ke votevola afuso. Kic kimib hursidjuh dekidcob vop oci aruzoklu cagnoltim oka fe wicwijnuh ha ike etomipsiw. Did debvi telpo jezlopwu lahu navub leud ubfu udreshi etomidelo fizmaj hetoj ibulogab tape pogdozak sivfipor. Eropaz irevivaw ubogohe wirsuaja izke zucat kagakke wesdoj fivonus gi tevivat coiwu juclak bahi."
+  },
+  "apiKey": "5c855e3a1297c36423b38d7cee2d3709c8c8188cd7f1c8630f78749de2154d09",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
