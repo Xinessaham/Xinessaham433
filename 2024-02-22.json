@@ -1,0 +1,26 @@
+{
+  "name": "Lou Curtis",
+  "age": 34,
+  "address": {
+    "street": "Raore Drive",
+    "city": "Apeshof",
+    "state": "VT",
+    "zip": "89324"
+  },
+  "contact": {
+    "phone": "(385) 293-5011",
+    "servicePhone": "800158933"
+  },
+  "birthday": "1999-02-22T19:29:17.112Z",
+  "ip": "56.96.243.27",
+  "foo": "bar",
+  "profile": {
+    "about": "Fubemuc rav ucbe fe kap lajru lital wiv iz oku wijhe tehcomkep ojeciko heziz cu. Dusu femem uditiz wovaco duhbu fah tiufi uz wo lofe lefnow tenu zuihuw epuum mizcimkaz. Bepcoga juwutev filuw volugaj raznumib ehobeza vifu awlatgor epu vihop kejo ce ko lamam ajpumho. Momujop ipfeslor tu cit jukwohvin picome lilatu hinutli celer puohiepa lojte icupogul rus lorke je zignowza enalo.",
+    "bio": "Wehar ponowog biecawaw ovoletri vohari le ugekonon beb paz mu ovagef tepkeema ij tup izja gekfood kebavi ce. Tejnof varih bi muturo wevek naru cura fiumi kejazku emkabaz luer fasaz maz. Ebu hates vuzlezif ozaadi ugze jelobba na ew if azo zob uwperre vusuj unsuk zevmaz. Novzuw careel osifuw atiilsud zah ataic ocebat zooja kuja efu pu wi poh ucwe zoko muz ja. Dorsen kuwu zibirvaw muc sa hefuh am mugve ri fottufde urapa fubjuke si jagdigfa mubi cowzetrih dewapa owbebri."
+  },
+  "apiKey": "c86c62c507f7f526eda83c255a94372c2008e0c1679547c6481875a45c2c9bb3",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
