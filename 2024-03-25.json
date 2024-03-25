@@ -1,0 +1,26 @@
+{
+  "name": "Calvin Mann",
+  "age": 42,
+  "address": {
+    "street": "Rorego Glen",
+    "city": "Ninhoin",
+    "state": "KY",
+    "zip": "09969"
+  },
+  "contact": {
+    "phone": "(386) 504-2226",
+    "servicePhone": "800245425"
+  },
+  "birthday": "1988-11-24T09:24:39.271Z",
+  "ip": "2.243.30.77",
+  "foo": "bar",
+  "profile": {
+    "about": "Ko zi sev vuivhuh zimazov do zo cupehcig tuf newemine ke pub mahluhil hekmi. Ire ugson vihuk pi waz top wena zopuf mezi cu wadzor cazife ahkopov demtukubo ducode folej. Be ne juki vecoh wog isbar ce ipo gec kig oh weh pon agtovam nijeliof.",
+    "bio": "Iw dujec eh re durom nejsuv ado nafnisuj ge upi jemum ra culse porse dozul. Puz soromkoc nuc hafwinav vu depatedi sosej ritzal jobpaw otbazapa davcuwut tar pu panifcub etalatjir ufase sovadur vendenvow. Sofpaf gitaro ag pa gi zimipene doippuf facbosi kom kap ojalu vokseet duscoosi dike ba ci raz fa. Bogiak musof pa jup sum je opi hel pa kuchu zo zotenor."
+  },
+  "apiKey": "8c52f5b1560ab4796654f882479b036e9df22bc1ffacf61344e7000c0d64fe02",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}
