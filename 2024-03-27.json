@@ -1,0 +1,26 @@
+{
+  "name": "Jacob Pierce",
+  "age": 53,
+  "address": {
+    "street": "Hetbe Path",
+    "city": "Haniuc",
+    "state": "IL",
+    "zip": "16697"
+  },
+  "contact": {
+    "phone": "(565) 520-2020",
+    "servicePhone": "800859562"
+  },
+  "birthday": "2004-06-16T07:02:09.299Z",
+  "ip": "8.147.231.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Vawuzo ehizur ozaeduja cuf gezdedib buganli aggapsi cave hecepka pa ligazi huuke wojo idisak zobkeb ej jahri. Movipef setmoli biehe otulacu konsek gik rinassu bitwok ve wec eno jubgo pem. Oharu mic hugob lusu dogo ipiwe gikih ufamova joz tipo ek haeb.",
+    "bio": "Radakop rovkeg ep mesne ras apgel led pueginu ojubifu ufta farid jeporoz keniej wulke cedaf tukdawo bi ellusu. Tugoc gug hiaz took op cip naj rer huazucas bahi kic saj ca. Gojzutdom ud tunipva joppo se josisun capa nizle cuz cufhed ilwod co mud elo hah."
+  },
+  "apiKey": "bdc6ac1dad2d5e60f23f8baaa6557a5f30abbcb13d93b08e679bc6f872c5d330",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
