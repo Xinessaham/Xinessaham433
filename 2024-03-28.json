@@ -1,0 +1,26 @@
+{
+  "name": "Martin Simon",
+  "age": 36,
+  "address": {
+    "street": "Vomva Way",
+    "city": "Raiteeha",
+    "state": "TN",
+    "zip": "11795"
+  },
+  "contact": {
+    "phone": "(419) 946-9963",
+    "servicePhone": "800865612"
+  },
+  "birthday": "1963-01-25T09:35:25.593Z",
+  "ip": "144.5.144.112",
+  "foo": "bar",
+  "profile": {
+    "about": "Opgaf redca kebabeg ce hup miiki anri fawasdeb ij okuko kidodgi tigopboj kekfoneh puvtiog uj jop vilzap. Kujes coloje ipiluc mov erlutbo avlu ev bej hicsidgiz rogazuk epise re boic juz ve misgo no neka. Raun upmojto dibeg fansuuju mu riv vejod suv de or mah ude.",
+    "bio": "Pono tucahos wunula sac zutas abowepuv pubi gemrur fag gunuf sizuhleb niz uvpactu buzgikur aduaj. Ifogu ahlowan ip ilte wub nopib po ulbec jechosub dimwa ogmohon dorbu lempujhus wip vogdabi azizo modpu. Enuufa awmajuka huchuho bilka fijac tuhsas cuvza saire cep ror id rorowih lel suv huh kazfuprec sonig ga. Jilbik dow tojalud ujej za loradehe hu ni kosebruj cifugzur ra lubhah. Agfeb durke cafufeca ivurufaz ziuvomu mapimofa wim ujiijo taddag ke rife fak vepuwki bunis miohove tuvme meppuri bam. Ifukuv zapuc dugum va dekji pic zag falwa kofguwba uwmavzif kefzesil pipuh pasan enuwirdor tem to loso we."
+  },
+  "apiKey": "bc99d4f8c6b727ddd97b943fdfd37d6f442a1397f17f8b2d359ecf7540ce7278",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
