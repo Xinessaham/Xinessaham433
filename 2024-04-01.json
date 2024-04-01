@@ -1,0 +1,26 @@
+{
+  "name": "Lydia Baker",
+  "age": 40,
+  "address": {
+    "street": "Sivdu Center",
+    "city": "Gihsejbi",
+    "state": "KY",
+    "zip": "30096"
+  },
+  "contact": {
+    "phone": "(261) 516-4733",
+    "servicePhone": "800193831"
+  },
+  "birthday": "2002-03-18T05:56:35.997Z",
+  "ip": "188.183.106.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Corrud wiwuz ostaf erwieg vos pezfekho hojensi pacow la suvgohup odewe gaw epsuh. Alaga ritib pab huw oze ef gocraw juh it dutduzvew sih epsejaru. Hemat tosob fa uto no gadu gewo po dev ov lapwarcow binpiri immof.",
+    "bio": "Zo hugu ceba heves ewo fohmus zof ucgi tihufap ziel git diztocat nihukeva icwojluh umiwavjeh. Zaji kongofe hajmuk gehmictus ma jiemsij wuban tijujo od zuni bumikew ofibi zo. Foz ihvar kaheh urnavzo vifaamo ozovogi ifcok hafgi cihocino te zic pamfoher."
+  },
+  "apiKey": "f1ff4e236258501012051e1e999a05621b7609cddb2937841f72d2c06afdd95f",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
