@@ -1,0 +1,26 @@
+{
+  "name": "Edwin Vargas",
+  "age": 41,
+  "address": {
+    "street": "Somdos Road",
+    "city": "Setirle",
+    "state": "SC",
+    "zip": "46021"
+  },
+  "contact": {
+    "phone": "(431) 713-2494",
+    "servicePhone": "800158494"
+  },
+  "birthday": "1999-09-04T11:32:13.218Z",
+  "ip": "236.88.169.134",
+  "foo": "bar",
+  "profile": {
+    "about": "Ecetuhaca ramiwe dewu wi aluife jaras eza ega seb jifaun hab uc worjufuj lupi oto zafef. Awo hekcepwa bas vok bojuraz gubvahev uze bi nu heok faome logu gubkogen. Guknof asija ko vu gulisu goczeebu paslakup riz getelgo zomuvaj fuktuzruw ivo ecgifbi hoke. Awdilug nuradic feknowi ik botno noamupa ca fipoho reja bus fis farkuges. Oda oc aknin je liajotic un ejevtat pu zo olesaj raoftah zihlapup pujjun kafga azu soeleuno rewva. Kofib sid po gal gowlijwe ji se uwico butlulala ketubbad zik vo omub to. Limarwev ipofum ab kekni iwiofpi ihetaf aso lirtaw verkiwtof zez ze ica uwuci.",
+    "bio": "Eg gejod dum nizwanvek nanive kajuwer id wipvuci dumjejruc jefaja matwev ha unikuv golhe dapub sicbi venaho. Duhlaz navu ragse usuvom omo cim rotofo afjutdub ebre kucpibeg asa lufojeh luk fe sabme bufpu gocwirnaj. Sov ipu ber or eru es koskewoh ago lurid esdu di kikju zus. Gis ojbekib fizih gow cidafrar ajejo ketel mut gaurucag gozifis dasvecje boohe edsutiw."
+  },
+  "apiKey": "d4bd000496aa5535e1c224bb853df0b1f84df7fa25fd2e2d3bc063eb6cf31c73",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
