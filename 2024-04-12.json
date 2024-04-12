@@ -1,0 +1,26 @@
+{
+  "name": "Alta Gross",
+  "age": 22,
+  "address": {
+    "street": "Fujki Place",
+    "city": "Beketca",
+    "state": "WI",
+    "zip": "24778"
+  },
+  "contact": {
+    "phone": "(730) 765-5700",
+    "servicePhone": "800342215"
+  },
+  "birthday": "1996-05-29T11:03:32.906Z",
+  "ip": "91.137.68.33",
+  "foo": "bar",
+  "profile": {
+    "about": "To ciin tatag kefjobnu vupha baap mil rehcaz avajiz ija mim wathag ek fulef. Misid ivbihgo zidsajimi geogaju dit du kadisuk pewi tujusi itu wormu zitvob mob. Miotib sus vulsus jokdog vofcoaho tiorucu ucu ne vaabain ohigzul namoz we duweme. Pumdo jotalcin gacvidac fuwap nidoh iddekem vaede noreffa cuhog oldove ponecoc pakem cemadpa luvnavohi jieg dozagaive lawofa wotegu. Naahagu ho su wuipu mohuawi viuwiboj tizad livzul ul ruwpas civesna ilmam nazugap zeicuca kopifrec ecumu ziftobdok. Vawsi lakjifag gif japedhes seulge cipocih beoza mupza juf za gu uwu.",
+    "bio": "Lesag hejivu voavi jerci fedgokvi fosok zuwowda evi zudeke pomes betu imosowzal at nogdu. Ifitinjo kozihzi dewwohu lab sazunmil baldese mutu eninilo gahu wuwhej we pu. Micduf vizer elliv te duk se rorewa to fellu ju jaijabi dezol ijbediku dob zig wuebut wa ceztaho."
+  },
+  "apiKey": "b0e4c1f792f314ed4140e505fd5468e9aaee8b9d10718505c5e7555476407b1f",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
