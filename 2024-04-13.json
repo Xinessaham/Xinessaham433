@@ -1,0 +1,26 @@
+{
+  "name": "Jose Flores",
+  "age": 43,
+  "address": {
+    "street": "Vopnit Pass",
+    "city": "Gehwevem",
+    "state": "OR",
+    "zip": "87206"
+  },
+  "contact": {
+    "phone": "(837) 772-2377",
+    "servicePhone": "800331666"
+  },
+  "birthday": "1980-11-13T16:49:47.156Z",
+  "ip": "93.147.149.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Vik tiv semu zinul ehurezduh vejodurot cij ugtu ra geed wudok cibamge egco. Dojesve upu te ces ezeha pav ole polti gahuzi zu atumose ifo wiltapec ogginas ube. Aha ruwoctep er ji ud se wiz gauto vi mawu akigul la oku regi bo rah tossageru.",
+    "bio": "Gidmuzfoc gatagiz ojo zonmu nowler loose tadva cufhuziwi jideve guvtid po johachaj. Ez taktac eg ojsiku iju tumapmu los re mo fufe vop votoka kuhevud molmoca hoh gohwub bi. Fukvanha ozofifek okupuepe anlucod la ci tesechi fiiwo teep zagloc uva annivlop musje demziid. Kir gacamap zailuovo eke efinut cugcugwe uska zalide lesit vinnet ritulhe gekfabin mupegzo atoto avual wegegu hiwmec."
+  },
+  "apiKey": "d9dd40da8ac36da4a390ec1413242726cd0784268b25671e6fcf5dc865d88154",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
